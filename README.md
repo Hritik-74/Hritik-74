@@ -4,7 +4,7 @@
 💻 I also work with JavaScript, HTML/CSS, and have experience with SQL, making me versatile in both frontend and backend development.
 💞️ I’m looking to collaborate on projects that combine data insights, visualization, and impactful user experiences.
 📫 How to reach me: Connect with me on LinkedIn or reach out via email at [hritikkchauhann@gmail.com].
-😄 Pronouns: He/Him
+
 ⚡ Fun fact: I’m always exploring how code can simplify everyday tasks and make learning fun!
 <!---
 Hritik-74/Hritik-74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
